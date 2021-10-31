@@ -1,0 +1,17 @@
+{
+  "name": "vue-cli-plugin-scaff",
+  "version": "5.4.7",
+  "description": "plugin for `vue-cli-scaff`",
+  "main": "index.js",
+  "dependencies": {
+    "@scaff/vue-cli-mock": "^5.4.6"
+  },
+  "devDependencies": {
+    "@vue/cli-shared-utils": "^4.5.6",
+    "glob": "^7.1.6",
+    "postcss-plugin-px2rem": "^0.8.1"
+  },
+  "author": "joenix",
+  "license": "MIT",
+  "gitHead": "04e2937ff4ef500365562e09c09cc7b37767b0a5"
+}
